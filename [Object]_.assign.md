@@ -3,10 +3,11 @@
 > 
     _.assign(object, [sources])
 
-Arguments
+Arguments: 
 object (Object): The destination object.
+
 [sources] (…Object): The source objects.
-Returns
+Returns:
 (Object): Returns object.
 
 ```
