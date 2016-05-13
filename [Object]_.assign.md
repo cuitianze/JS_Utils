@@ -7,6 +7,7 @@ Arguments:
 object (Object): The destination object.
 
 [sources] (…Object): The source objects.
+
 Returns:
 (Object): Returns object.
 
